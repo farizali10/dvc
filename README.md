@@ -25,3 +25,7 @@ touch .git ignore
 touch README.md
 ```
 
+```
+touch requirements.txt
+pip install -r requirements.txt
+```
