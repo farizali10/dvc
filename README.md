@@ -1,11 +1,6 @@
 ```
 mkdir dvc
-```
-```
 cd dvc
-```
-
-```
 code .
 ```
 
